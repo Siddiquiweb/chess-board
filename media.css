@@ -1,0 +1,26 @@
+@media (max-width:576px) {
+    .chess-box {
+        width: 100%
+    }
+
+    .icons {
+        font-size: 30px
+    }
+}
+
+@media (max-width:786px) {
+    .chess-box {
+        width: 100%
+    }
+
+    .icons {
+        font-size: 37px
+    }
+}
+
+@media (min-width:786px) and (max-width:1100px) {
+
+    .icons {
+        font-size: 50px
+    }
+}
